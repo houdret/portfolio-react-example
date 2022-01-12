@@ -17,15 +17,15 @@ const Footer = () => {
                     Design By Houdret
                 </div>
                 <div className="sns-links">
-                    <a href="https://www.linkedin.com/in/jean-louis-houdret-88250255/" target="_blank" rel="noreferrer">
+                    <a href="https://www.linkedin.com/in/jean-louis-houdret/" target="_blank" rel="noreferrer">
                         <i className="fab fa-linkedin linkedin"></i>
                     </a>
                     <a href="https://twitter.com/jeanhoudret" target="_blank" rel="noreferrer">
                         <i className="fab fa-twitter twitter"></i>
                     </a>
-                    <a href="https://www.facebook.com/jeanlouis.houdret.1/" target="_blank" rel="noreferrer">
-                        <i className="fab fa-facebook facebook"></i>
-                    </a>
+                    <a href="https://github.com/houdret" target="_blank" rel="noreferrer">
+                            <i className="fab fa-github github"></i>
+                        </a>
                 </div>
             </div>
         </div>

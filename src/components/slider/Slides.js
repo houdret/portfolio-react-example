@@ -1,21 +1,24 @@
 import React from "react";
 import './Slider.css';
+import project1 from '../../media/project1.png';
+import project2 from '../../media/project2.png';
+import project3 from '../../media/project3.png';
 
 const slidesInfo = [
     {
-        src: "https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_960_720.jpg",
+        src: project1,
         alt: "Project 1",
-        desc: "Project 1",
+        desc: "Movies",
     },
     {
-        src: "https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg",
+        src: project2,
         alt: "Project 2",
-        desc: "Project 2",
+        desc: "Cliker",
     },
     {
-        src: "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
+        src: project3,
         alt: "Project 3",
-        desc: "Project 3",
+        desc: "C.V.",
     },
     
 
